@@ -1,0 +1,10 @@
+hub testhub1
+shortLabel CompIsoformFrac
+longLabel UCSC track hub to compare selection isoform fraction
+genomesFile genomes_CompIsoformFrac.txt
+email youremail@somthing.com
+hub testhub1
+shortLabel CompIsoformFrac
+longLabel UCSC track hub to compare selection isoform fraction
+genomesFile genomes_CompIsoformFrac.txt
+email youremail@somthing.com

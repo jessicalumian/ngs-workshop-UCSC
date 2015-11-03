@@ -1,0 +1,50 @@
+track isofrac0.05
+bigDataUrl BigBed/isofrac0.05.BigBed
+shortLabel isofrac0.05
+longLabel isofrac0.05
+type bigBed 12
+colorByStrand 255,0,0 0,0,255
+visibility dense
+priority 1
+html isofrac0.05
+ 
+track isofrac0.2
+bigDataUrl BigBed/isofrac0.2.BigBed
+shortLabel isofrac0.2
+longLabel isofrac0.2
+type bigBed 12
+colorByStrand 255,0,0 0,0,255
+visibility dense
+priority 2
+html isofrac0.2
+ 
+track isofrac0.5
+bigDataUrl BigBed/isofrac0.5.BigBed
+shortLabel isofrac0.5
+longLabel isofrac0.5
+type bigBed 12
+colorByStrand 255,0,0 0,0,255
+visibility dense
+priority 3
+html isofrac0.5
+ 
+track isofrac0.7
+bigDataUrl BigBed/isofrac0.7.BigBed
+shortLabel isofrac0.7
+longLabel isofrac0.7
+type bigBed 12
+colorByStrand 255,0,0 0,0,255
+visibility dense
+priority 4
+html isofrac0.7
+ 
+track isofrac0.9
+bigDataUrl BigBed/isofrac0.9.BigBed
+shortLabel isofrac0.9
+longLabel isofrac0.9
+type bigBed 12
+colorByStrand 255,0,0 0,0,255
+visibility dense
+priority 5
+html isofrac0.9
+ 
